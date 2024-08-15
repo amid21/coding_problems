@@ -1,2 +1,2 @@
-### coding problems 
+### Coding Problems and Projects from school
 ###
